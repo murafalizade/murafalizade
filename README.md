@@ -13,8 +13,7 @@
 <p><img align="right" src="https://github.com/murafalizade/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
+- 🌱 I’m Software Engineer in AI/ML Implementation
 - 📫 How to reach me **muradaliyev2229@gmail.com**
 
 - ⚡ Fun fact: Coding and Music🎵 are the reasons to live.
