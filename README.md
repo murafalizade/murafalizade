@@ -1,5 +1,5 @@
 <div align="center">
-## Murad Aliyev
+##Murad Aliyev
  
 **AI/ML Engineer · Researcher · Software & System Design**
  
@@ -71,7 +71,7 @@ I'm a software engineer focused on **applied AI/ML**, with a research-driven bac
 </div>
  
 <div align="center">
-<p>**Open to collaboration on research and applied AI projects. Feel free to reach out.**</p>
+Open to collaboration on research and applied AI projects. Feel free to reach out.
  
 </div>
  
