@@ -1,5 +1,5 @@
 <div align="center">
-# Murad Aliyev
+## Murad Aliyev
  
 **AI/ML Engineer · Researcher · Software & System Design**
  
@@ -69,10 +69,9 @@ I'm a software engineer focused on **applied AI/ML**, with a research-driven bac
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=murafalizade&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murafalizade&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Top languages" />
 </div>
----
  
 <div align="center">
-*Open to collaboration on research and applied AI projects. Feel free to reach out.*
+<p>**Open to collaboration on research and applied AI projects. Feel free to reach out.**</p>
  
 </div>
  
