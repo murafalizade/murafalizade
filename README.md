@@ -1,7 +1,7 @@
 <div align="center">
 # Murad Aliyev
  
-**AI/ML Engineer · Researcher · Signal Processing & Reinforcement Learning**
+**AI/ML Engineer · Researcher · Software & System Design**
  
 Building and researching intelligent systems, from models and signals to deployed products.
  
@@ -12,13 +12,12 @@ Building and researching intelligent systems, from models and signals to deploye
 ![Profile views](https://komarev.com/ghpvc/?username=murafalizade&label=Profile%20views&color=0e75b6&style=flat)
  
 </div>
----
  
 ## About
  
-I'm a software engineer focused on **applied AI/ML**, with a research-driven background in **signal processing** and **reinforcement learning**. I enjoy taking an idea from experiment to a working, well-engineered system.
+I'm a software engineer focused on **applied AI/ML**, with a research-driven background in AI. I enjoy taking an idea from experiment to a working, well-engineered system.
  
-- 🔬 **Research:** reinforcement learning, signal processing, applied machine learning
+- 🔬 **Research:** Graph-based algorithms, LLMs, reinforcement learning, signal processing, applied machine learning
 - 🛠️ **Engineering:** ML pipelines, model implementation, backend services, full-stack products
 - 🌱 **Always learning:** reading papers, reproducing results, and shipping what works
 - 📫 **Reach me:** [muradaliyev2229@gmail.com](mailto:muradaliyev2229@gmail.com)
@@ -30,7 +29,6 @@ I'm a software engineer focused on **applied AI/ML**, with a research-driven bac
 |---|---|
 | **Machine Learning** | Deep learning, model training and evaluation, experimentation |
 | **Reinforcement Learning** | Policy and value-based methods, environment design, reward shaping |
-| **Signal Processing** | Time-frequency analysis, filtering, feature extraction |
 | **Research** | Literature review, reproducing results, technical writing |
 | **Software Engineering** | Clean architecture, APIs, testing, deployment |
  
@@ -64,19 +62,6 @@ I'm a software engineer focused on **applied AI/ML**, with a research-driven bac
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
  
----
- 
-## Featured Projects
- 
-> Replace the placeholders below with your best 3-4 repositories. Lead with outcomes, not just technologies.
- 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result (e.g. metric, speedup, accuracy). | Python, PyTorch |
-| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result. | Python, SciPy |
-| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result. | React, Node.js |
- 
----
  
 ## GitHub Stats
  
