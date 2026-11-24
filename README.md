@@ -1,83 +1,93 @@
-<h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Basic+info+about+me;++;Self-taught+Front-End+Developer,;Computer+Information+Systems+Student,;CTO+of+Resootime,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<br>
-
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=murafalizade&label=Profile%20views&color=0e75b6&style=flat"
-    alt="murafalizade" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/murafalizade/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m Software Engineer in AI/ML Implementation
-- 📫 How to reach me **muradaliyev2229@gmail.com**
-
-- ⚡ Fun fact: Coding and Music🎵 are the reasons to live.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muradaliyev1/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="murafalizade" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100005770751769" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="murafalizade" height="30" width="40" /></a>
-  <a href="https://leetcode.com/muradaliyev2228/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="murafalizade" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=murafalizade&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murafalizade&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murafalizade&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[MurafAlizade](https://github.com/murafalizade)
+<div align="center">
+# Murad Aliyev
+ 
+**AI/ML Engineer · Researcher · Signal Processing & Reinforcement Learning**
+ 
+Building and researching intelligent systems, from models and signals to deployed products.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muradaliyev1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradaliyev2229@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/muradaliyev2228/)
+ 
+![Profile views](https://komarev.com/ghpvc/?username=murafalizade&label=Profile%20views&color=0e75b6&style=flat)
+ 
+</div>
+---
+ 
+## About
+ 
+I'm a software engineer focused on **applied AI/ML**, with a research-driven background in **signal processing** and **reinforcement learning**. I enjoy taking an idea from experiment to a working, well-engineered system.
+ 
+- 🔬 **Research:** reinforcement learning, signal processing, applied machine learning
+- 🛠️ **Engineering:** ML pipelines, model implementation, backend services, full-stack products
+- 🌱 **Always learning:** reading papers, reproducing results, and shipping what works
+- 📫 **Reach me:** [muradaliyev2229@gmail.com](mailto:muradaliyev2229@gmail.com)
+---
+ 
+## Core Skills
+ 
+| Area | Focus |
+|---|---|
+| **Machine Learning** | Deep learning, model training and evaluation, experimentation |
+| **Reinforcement Learning** | Policy and value-based methods, environment design, reward shaping |
+| **Signal Processing** | Time-frequency analysis, filtering, feature extraction |
+| **Research** | Literature review, reproducing results, technical writing |
+| **Software Engineering** | Clean architecture, APIs, testing, deployment |
+ 
+---
+ 
+## Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ 
+**AI / ML / Data**
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+ 
+**Web / Backend**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ 
+**Tools**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+ 
+---
+ 
+## Featured Projects
+ 
+> Replace the placeholders below with your best 3-4 repositories. Lead with outcomes, not just technologies.
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result (e.g. metric, speedup, accuracy). | Python, PyTorch |
+| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result. | Python, SciPy |
+| [**Project Name**](https://github.com/murafalizade/REPO) | One sentence on the problem it solves and the result. | React, Node.js |
+ 
+---
+ 
+## GitHub Stats
+ 
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=murafalizade&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murafalizade&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Top languages" />
+</div>
+---
+ 
+<div align="center">
+*Open to collaboration on research and applied AI projects. Feel free to reach out.*
+ 
+</div>
+ 
